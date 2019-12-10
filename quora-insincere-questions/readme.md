@@ -1,4 +1,6 @@
 # USU CS5665 Final Project 
+The idea comes from a [Kaggle competetion](https://www.kaggle.com/c/quora-insincere-questions-classification/rules). I am interested in NLP(Natural Language Processing). Therefore, I did this project as an introduction to the NLP world. 
+
 ### Poster Presentation
 
 <object data="poster-HaixuanGuo.pdf" type="application/pdf" width="900px" height="auto">
@@ -17,7 +19,7 @@ It shows that GloVe covers most of the words in the dataset while fasttext is th
 
 #### keywords: Text Mining, Word Embedding, SVM, Logistic Regression, F-score
 
-### folder structure
+### Folder Structure
 
 ```
 .
