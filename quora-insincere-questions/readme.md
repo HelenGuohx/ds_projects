@@ -1,5 +1,5 @@
 # USU CS5665 Final Project 
-Poster Presentation
+### Poster Presentation
 
 <object data="poster-HaixuanGuo.pdf" type="application/pdf" width="900px" height="auto">
     <embed src="poster-HaixuanGuo.pdf">
