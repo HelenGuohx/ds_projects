@@ -3,7 +3,7 @@
 
 <object data="poster-HaixuanGuo.pdf" type="application/pdf" width="900px" height="auto">
     <embed src="poster-HaixuanGuo.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/HelenGuohx/ds_projects/blob/master/quora-insincere-questions/poster-HaixuanGuo.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./poster-HaixuanGuo.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
